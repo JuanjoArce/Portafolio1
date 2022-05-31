@@ -1,0 +1,7 @@
+#fotolog {
+    position: absolute;
+    max-height: 50%;
+    max-width: 50%;
+    transform: translate(25%, -150%);
+    border: 30px solid rgba(146, 142, 142, 0.986);
+}
