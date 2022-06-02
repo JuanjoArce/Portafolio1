@@ -1,0 +1,10 @@
+#acerca {
+    flex-direction: row;
+    align-items: baseline;
+    opacity: 0.8;
+    padding: 2px;
+
+}
+#acerca:hover {
+    opacity: 1;
+}
