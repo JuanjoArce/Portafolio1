@@ -1,6 +1,7 @@
 #fotolog {
-    max-height: 90%;
-    max-width: 90%;
+    max-height: 100%;
+    max-width: 100%;
     /*transform: translate(25%, -50%);*/
-    border: 3px solid rgba(0, 0, 0, 0.986);
+    border: 1px solid rgba(0, 0, 0, 0.986);
+    left: 2px;
 }
